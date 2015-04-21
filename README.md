@@ -21,4 +21,5 @@ Completed Milestones
 [x] Display some of the available Yelp categories (choose any 3-4 that you want).
 
 Demo
+
 ![Alt text](https://github.com/hassank/Yelp/blob/master/YelpLice.gif "Yelp")
